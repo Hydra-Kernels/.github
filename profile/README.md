@@ -33,11 +33,10 @@ Device: Redmi Note 8 Pro
 Released Year: 2019
 Chip : Mtk6785
 ```
-<img width="25%" align="right" alt="Github" src="https://camo.githubusercontent.com/34511d0f3bdf661eb13ad8457a30373ac85b0a03ef517a15a77e58a1ac87f2be/68747470733a2f2f66646e322e67736d6172656e612e636f6d2f76762f706963732f7869616f6d692f7869616f6d692d7265646d692d6e6f74652d382d70726f2d7477696c696768742d6f72616e67652e6a7067" />
 
 <br>
 <h2> How to request for your device :</h2>
-You can request hydra kernel for your device by dropping your mail at iitd19ishita@gmail.com <br>
+You can request HYDRA kernel for your device by dropping your mail at iitd19ishita@gmail.com <br>
 
 <br>
 <h2> About Kernel:</h2>No repository changes has been done, any changes for development will be entertained in your personal github account, here you use the device tree 

@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img src="https://github.com/IshitaC20/IshitaC20/blob/main/LOGOO.png?raw=true" width="325"#/>
 <h3># HYDRA Kernels #</h3>
-<h4>Developed by Amit(@amitkv1212) and Ishita(@ishitac20)</h4> 
+<h4>Developed by Amit(@amitkv1212) and Ishita(@iit-d19)</h4> 
 </div>
 </b>
 <br>

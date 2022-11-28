@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img src="https://github.com/IshitaC20/IshitaC20/blob/main/LOGOO.png?raw=true" width="325"#/>
 <h3># HYDRA Kernels #</h3>
-<h4>Developed by Amit(@amitkv1212) and Ishita(@iit-d19)</h4> 
+<h4>Developed by Amit(@amitkv1212) and Ishita(@iitd19ishita)</h4> 
 </div>
 </b>
 <br>
@@ -11,6 +11,11 @@ Hydra Kernel is a arch64 Linux Kernel developed to provide Performance with best
 We started this project to ensure people get an ultimate kernel which can perform high end operations such as Gaming & saves battery corresponding to it.
 We have core switiching technology(taken from miui) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games!
 <br>
+
+<h2> About Devices Developers :</h2>
+ONEPLUS 7/8 : @iitd19ishita
+REDMI NOTE 8 PRO : @amitkv1212
+REDMI NOTE 6 PRO(EVO X)  : @blazerpaul
 <br>We currently build kernels for :
 
 ```

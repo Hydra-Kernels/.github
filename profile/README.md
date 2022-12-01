@@ -44,7 +44,7 @@ Codename: Begonia(Github)
 Device: Redmi Note 8 Pro
 Released Year: 2019
 Chip : Mediatek Helio G90T, Octa-core (2x Cortex-A76 + 6x Cortex-A55)
-Developer : @amitkv1212
+Developer : @amitkv1212 && @blazerpaul
 
 Codename: InstantNoodle
 Device: Oneplus 8 (Gitlab)

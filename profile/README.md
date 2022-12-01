@@ -6,7 +6,7 @@
 </div>
 </b>
 <br>
-<h2> About Kernel:</h2>
+<h2> HYDRA KERNELS : </h2>
 Hydra Kernel is a arch64 Linux Kernel developed to provide Performance with best battery.
 We started this project to ensure people get an ultimate kernel which can perform high end operations such as Gaming & saves battery corresponding to it.
 We have core switiching technology(taken from miui) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games!

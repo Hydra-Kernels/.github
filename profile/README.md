@@ -1,6 +1,6 @@
 <b>
 <div id="header" align="center">
-<img src="https://github.com/IshitaC20/IshitaC20/blob/main/LOGOO.png?raw=true" width="300"#/>
+<img src="https://github.com/IshitaC20/IshitaC20/blob/main/LOGOO.png?raw=true" width="450"#/>
 <h1> <b>HYDRA Kernels Project<h1>
 <h5>Developed by Amit(@amitkv1212), Ishita(@IshitaC20) and Blazer(@blazerpaul)</h5> 
 

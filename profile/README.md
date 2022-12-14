@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img src="https://github.com/IshitaC20/IshitaC20/blob/main/LOGOO.png?raw=true" width="300"#/>
 <h1> <b>HYDRA Kernels Project<h1>
-<h3>Developed by Amit(@amitkv1212), Ishita(@IshitaC20) and Blazer(@blazerpaul)</h3> 
+<h5>Developed by Amit(@amitkv1212), Ishita(@IshitaC20) and Blazer(@blazerpaul)</h5> 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -30,14 +30,14 @@ Codename: enchilada
 Device: Oneplus 6(Gitlab)
 Released Date: May,2018
 Chipset : Snapdragon 845
-Developer : @iitd19ishita
+Developer : @IshitaC20
 
 
 Codename: hotdogb
 Device: Oneplus 7t (Gitlab)
 Released Date: May,2018
 Chipset : Snapdragon 855+ (7 nm) ; CPU, Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) 
-Developer : @iitd19ishita
+Developer : @IshitaC20
 
 
 Codename: Begonia(Github)
@@ -50,7 +50,7 @@ Codename: InstantNoodle
 Device: Oneplus 8 (Gitlab)
 Released Date: Oct, 2020
 Chipset : Qualcomm® Snapdragon™ 865. 5G Chipset: X55 GPU: Adreno 650
-Developer : @iitd19ishita, @blazerpaul & @amitkv1212 
+Developer : @IshitaC20, @blazerpaul & @amitkv1212 
 ```
 <br>
 <h2> How to request for your device :</h2>

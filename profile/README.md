@@ -51,6 +51,8 @@ Device: Oneplus 8 (Gitlab)
 Released Date: Oct, 2020
 Chipset : Qualcomm® Snapdragon™ 865. 5G Chipset: X55 GPU: Adreno 650
 Developer : @IshitaC20, @blazerpaul & @amitkv1212 
+ 
+ Upcoming Project on : Redmi Note 10 pro(IshitaC20) and Nothing Phone 1(IshitaC20 & Pancha)
 ```
 <br>
 <h2> How to request for your device :</h2>

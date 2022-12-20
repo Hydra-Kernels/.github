@@ -30,7 +30,7 @@ Codename: enchilada
 Device: Oneplus 6(Gitlab)
 Released Date: May,2018
 Chipset : Snapdragon 845
-Developer : @IshitaC20
+Developer : @IshitaC20 & @HarshitX97
 
 
 Codename: hotdogb
@@ -44,7 +44,7 @@ Codename: Begonia(Github)
 Device: Redmi Note 8 Pro
 Released Year: 2019
 Chip : Mediatek Helio G90T, Octa-core (2x Cortex-A76 + 6x Cortex-A55)
-Developer : @amitkv1212 && @blazerpaul
+Developer : @HarshitX97
 
 Codename: InstantNoodle
 Device: Oneplus 8 (Gitlab)

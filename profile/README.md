@@ -1,8 +1,8 @@
-<b>
+
 <div id="header" align="center">
 <img src="https://github.com/IshitaC20/IshitaC20/blob/main/LOGOO.png?raw=true" width="450"#/>
-<h1><a href="https://hydra-vercel.vercel.app/"> <b>HYDRA Kernels Project<h1></a>
-<h5>Developed by @IshitaC20,@kdrag0nX and @blazerpaul</h5> 
+<h1><a href="https://hydra-vercel.vercel.app/"> <b>HYDRA Kernels Project</a><h1>
+<h4>Developed by @IshitaC20,@kdrag0nX and @blazerpaul</h4> 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -12,13 +12,13 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 
- You can checkout our projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://www.pling.com/p/1944627/)
+ Download HYDRA Kernel :💖: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://www.pling.com/p/1944627/)
 
 
 </div>
 </b>
 <br>
-<h2> HYDRA KERNELS : </h2>
+<h2> <a href="https://hydra-vercel.vercel.app/">HYDRA KERNELS : </a></h2>
 Hydra Kernel is a arch64 Linux Kernel developed to provide Performance with best battery.
 We started this project to ensure people get an ultimate kernel which can perform high end operations such as Gaming & saves battery corresponding to it.
 We have core switiching technology(taken from miui) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games!
@@ -35,7 +35,7 @@ Developer : @IshitaC20 & @HarshitX97
 
 Codename: hotdogb
 Device: Oneplus 7t (Gitlab)
-Released Date: May,2018
+Released Date: September,2019
 Chipset : Snapdragon 855+ (7 nm) ; CPU, Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) 
 Developer : @IshitaC20
 
@@ -51,13 +51,18 @@ Device: Oneplus 8 (Gitlab)
 Released Date: Oct, 2020
 Chipset : Qualcomm® Snapdragon™ 865. 5G Chipset: X55 GPU: Adreno 650
 Developer : @IshitaC20, @blazerpaul & @kdrag0nX 
- 
- Upcoming Project on : Redmi Note 10 pro(IshitaC20) and Nothing Phone 1(IshitaC20 & Pancha)
+
+Codename: NothingPhone1
+Device: Nothing Phone 1 (Gitlab)
+Released Date: July, 2022
+Chipset : Qualcomm® Snapdragon™ 778G Plus, Octa Core, 2.5 GHz Processor
+Developer : @IshitaC20
+
 ```
 <br>
 <h2> How to request for your device :</h2>
 You can request HYDRA kernel for your device by dropping your mail at iitd19ishita@gmail.com <br>
 
 <br>
-<h2> About Kernel:</h2>No repository changes has been done, any changes for development will be entertained in your personal github account or local system, here you use the device tree 
+<h2> About US :</h2> Check out our website and about us : https://hydra-vercel.vercel.app/
 <br>

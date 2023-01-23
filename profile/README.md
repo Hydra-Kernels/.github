@@ -63,6 +63,11 @@ Developer : @IshitaC20
 <h2> How to request for your device :</h2>
 You can request HYDRA kernel for your device by dropping your mail at iitd19ishita@gmail.com or <a href="https://telegram.me/hydra_kernels_support">Telegram Group</a> <br>
 
+ <br>
+<h2> You can join in our discussion groups too :</h2>
+In particular this telegram group is for Redmi Note 8 Pro, but yeah if anyone is facing doubt in any other version too, they can ask here<a href="https://telegram.me/RedmiNote8ProYT">Telegram Group</a> <br>
+
+ 
 <br>
 <h2> About US :</h2> Check out our website and about us : https://hydra-vercel.vercel.app/
 <br>

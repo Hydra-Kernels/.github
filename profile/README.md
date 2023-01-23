@@ -61,7 +61,7 @@ Developer : @IshitaC20
 ```
 <br>
 <h2> How to request for your device :</h2>
-You can request HYDRA kernel for your device by dropping your mail at iitd19ishita@gmail.com <br>
+You can request HYDRA kernel for your device by dropping your mail at iitd19ishita@gmail.com or <a href="https://telegram.me/hydra_kernels_support">Telegram Group</a> <br>
 
 <br>
 <h2> About US :</h2> Check out our website and about us : https://hydra-vercel.vercel.app/

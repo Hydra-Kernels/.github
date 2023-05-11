@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img src="https://github.com/IshitaC20/IshitaC20/blob/main/LOGOO.png?raw=true" width="450"#/>
 <h1><a href="https://hydra-vercel.vercel.app/"> <b>HYDRA Kernels Project</a><h1>
-<h4>Developed by @IshitaC20,@kdrag0nX and @blazerpaul</h4> 
+<h4>Developed by @IshitaC20 and @kdrag0nX </h4> 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
